@@ -74,9 +74,9 @@ def toggle_ai_dummy():
     keyboard_controller.release(Key.f1)
     time.sleep(0.1)
     if ai_dummy_enabled:
-        keyboard_controller.type('aipause on')
+        keyboard_controller.type('aidummy on')
     else:
-        keyboard_controller.type('aipause off')
+        keyboard_controller.type('aidummy off')
     time.sleep(0.1)
     keyboard_controller.press(Key.enter)
     time.sleep(0.1)
